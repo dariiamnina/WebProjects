@@ -1,5 +1,5 @@
 # Database management system
-##Client-Server applications in Java
+Client-Server applications in Java
 
 This is a database management system in form of several distributed versions and web-services, with the use of sql queries:
 
